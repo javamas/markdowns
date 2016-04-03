@@ -1,6 +1,6 @@
 # Part? review
 
-**PullRequestURL** : レビューの対象になったGithubのプルリクエストのUrl.
+[PullRequestURL](レビューの対象になったGithubのプルリクエストのUrl.)
 
 ---
 ## 指摘点1
