@@ -1,4 +1,4 @@
-# Part2 review
+# Part2_1 review
 
 [PullRequestURL](https://github.com/nayuta28/LineAnalyzer/pull/2)
 
@@ -54,11 +54,11 @@ List<String> allLinesList = readFile(filePath);
 
 ### 問題
 
-* コード上に **1**, **0** 以外の変数が出てくると読み手はなぜ数が急に出てきたか分からない
+* コード上に **1**, **0** 以外の数字が出てくると読み手はなぜ数字が急に出てきたか分からない
 
 ### 対応
 
-* **1**, **0** 以外の数はコード上に突然出さない
+* **1**, **0** 以外の数字はコード上に突然出さない
 * 変数、定数に格納する
 * 設定ファイルに書き出す
 
